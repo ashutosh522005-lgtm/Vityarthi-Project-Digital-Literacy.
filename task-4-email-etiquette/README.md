@@ -1,1 +1,13 @@
-
+Checklist for 5 do's and dont's
+-The 5 do's:-
+   -Do check your privacy settings regularly. Ensure you know exactly who can see your posts, photos, and tagged content across all platforms
+   -Do the "Employer Test" before posting. If you wouldn"t want a future hiring manager, internship coordinator, or professor to see a photo or comment, don"t post it.
+   -Do make a professional presence. Use platforms like LinkedIn to highlight your academic projects, volunteer work, and connect with alumni in your field.
+   -Do verify information before sharing. Double-check the accuracy of news articles, campus rumors, or viral infographics before reposting them to your network
+   -Do take intentional screen breaks. Protect your mental health and study habits by setting app limits or designating tech-free hours during the day.
+-The 5 dont's:-
+   -Don't share your live location or daily schedule. Broadcasting exactly where you are or when your dorm is empty is a major safety and security risk
+   -Don't post illegal or underage activities. Photos involving underage drinking, illicit substances, or vandalism can lead to university disciplinary action or job loss.
+   -Don't vent about professors, peers, or employers. Publicly complaining about a strict grader or a frustrating boss reflects poorly on your own professionalism.
+   -Don't engage in online flame wars. Getting dragged into heated, public arguments rarely changes minds and leaves a permanent record of impulsive behavior.
+   -Don't let FOMO (Fear Of Missing Out) dictate your life. Remember that social media is a highlight reel, not an accurate reflection of everyone else's college experience.
