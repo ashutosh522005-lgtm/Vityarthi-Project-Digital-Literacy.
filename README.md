@@ -30,7 +30,7 @@ Goal: Researched a UPI fraud case study and developed a prevention guide.
 Location: task-5-cybercrime/
 🔗 Important Links
 Digital Literacy Quiz (Google Form): (https://docs.google.com/forms/d/e/1FAIpQLSch06wVPNFszvC6H1_QaVgRkA0bFdfJ8-MyRYOlHq7Tf4PF6A/viewform?usp=publish-editor)
-LinkedIn Profile: (https://www.linkedin.com/in/ayush-tripathy-b8044a3bb/)
+LinkedIn Profile: (https://www.linkedin.com/in/ashutosh-mohanty-0a94112a5/)
 Final Project Report: report/Project_Report.pdf)
 🛠️ Tools Used
 GitHub (Version Control)
