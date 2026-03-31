@@ -29,7 +29,7 @@ Location: task-4-email-etiquette/
 Goal: Researched a UPI fraud case study and developed a prevention guide.
 Location: task-5-cybercrime/
 🔗 Important Links
-Digital Literacy Quiz (Google Form): (https://docs.google.com/forms/d/e/1FAIpQLSch06wVPNFszvC6H1_QaVgRkA0bFdfJ8-MyRYOlHq7Tf4PF6A/viewform?usp=publish-editor)
+Digital Literacy Quiz (Google Form): https://docs.google.com/forms/d/e/1FAIpQLScg8oua42Z-eTvi8Mlzzz3x8mjl1Ha95pMYKIwntJaiIsOXjw/viewform?usp=header
 LinkedIn Profile: (https://www.linkedin.com/in/ashutosh-mohanty-0a94112a5/)
 Final Project Report: report/Project_Report.pdf)
 🛠️ Tools Used
