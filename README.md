@@ -11,6 +11,7 @@ Year: First Year (2025-2026)
 This repository contains my digital literacy portfolio developed as part of the CSE0001: Digital Literacy course. As a Student Digital Ambassador, I have completed five tasks that demonstrate my ability to navigate the digital world safely, professionally, and effectively.
 
 📂 Module Summaries
+
 🎨 Task 1: Digital Literacy Infographic
 Goal: Created a visual resource to explain Digital Literacy to peers.
 Tools: [Canva]
